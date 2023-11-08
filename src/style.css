@@ -1,0 +1,17 @@
+#imageDiv {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#radios {
+    width: 450px;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style-type: none;
+}
